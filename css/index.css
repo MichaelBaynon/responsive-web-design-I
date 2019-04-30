@@ -136,124 +136,167 @@ h1, h2, h3, h4, h5 {
 
 
 
-@media(max-width: 500px) {
 
-    .middle-img {
-        display: flex;
-        height: 100px;
-        padding: 10px;
-        padding-right: 10px;
-    }
-    
-    .top-content {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    .features {
-        
-    }
-    
-    
-    
-    .sphere {
-        margin-left: 1300px;
-      margin-right: 1300px; 
-        margin-top: -300px;
-    }
-    
-    .button {
-        border: solid black;
-          width: 160px; 
-          border: solid black;
-          padding: 8px 38px;
-          text-align: center;
-          
-    }
-    
-    .title {
-        font-size: 70px;
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap; 
-        align-self: center;
-    }
-    
-    .bottom-content {
-        
-    }
-    
-    .footer {
-        text-align: center; 
-    }
-    
-    .secondContent {
-        display: inline-block;
-        position: relative;
-        width: 100%;
-        margin: 1px;
-    }
-    
-    .logo {
-        width: 225px; 
-    }
-    
-    
-    .top-container {
-        display: flex; 
-        flex-direction: column;
-         
-        height: 300px; 
-        width: 100%;
-        flex-wrap: wrap; 
-        justify-content: center;
-        align-items: center;
-        align-content: space-around;
-    
-    }
-    
-    .title-container {
-        display: flex; 
-        flex-direction: column;
-         
-        height: 300px; 
-        width: 100%;
-        flex-wrap: wrap; 
-        justify-content: center;
-        align-items: center;
-       
-    }
-    
-    .topContent-container {
-        display: flex; 
-        flex-direction: column;
-         
-        height: 315px; 
-        width: 100%;
-        flex-wrap: wrap; 
-        padding: 11px; 
-        
-    }    
-    
-    .bottomContent-container {
-        display: flex; 
-        flex-direction: column;
-        align-self: flex-start; 
-        height: 315px; 
-        width: 140px;
-        flex-wrap: wrap; 
-        padding: 11px;
-    
-    }
-    
-    .contact {
-        padding: 10px;
-    }
-    
-    .link {
-        color: grey;
-        text-decoration: none;
-    }
+
+
+
+
+
+
+
+
+
+/* mobile code */
+
+
+.middle-img {
+    display: flex;
+    height: 100px;
+    padding: 10px;
+    padding-right: 10px;
+}
+
+.top-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.features {
     
 }
+
+
+
+.sphere {
+    margin-left: 1300px;
+  margin-right: 1300px; 
+    margin-top: -300px;
+}
+
+.button {
+    border: solid black;
+      width: 160px; 
+      border: solid black;
+      padding: 8px 38px;
+      text-align: center;
+      
+}
+
+.title {
+    font-size: 70px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    align-self: center;
+}
+
+.bottom-content {
     
+}
+
+.footer {
+    text-align: center; 
+}
+
+.secondContent {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    margin: 1px;
+}
+
+.logo {
+    width: 225px; 
+}
+
+
+.top-container {
+    display: flex; 
+    flex-direction: column;
+     
+    height: 300px; 
+    width: 100%;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+
+}
+
+.title-container {
+    display: flex; 
+    flex-direction: column;
+     
+    height: 300px; 
+    width: 100%;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.topContent-container {
+    display: flex; 
+    flex-direction: column;
+     
+    height: 315px; 
+    width: 100%;
+    flex-wrap: wrap; 
+    padding: 11px; 
+    
+}    
+
+.bottomContent-container {
+    display: flex; 
+    flex-direction: column;
+    align-self: flex-start; 
+    height: 315px; 
+    width: 140px;
+    flex-wrap: wrap; 
+    padding: 11px;
+
+}
+
+.contact {
+    padding: 10px;
+}
+
+.link {
+    color: grey;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
